@@ -5,6 +5,7 @@
 # Create value for customers
 
 * [The Lean Mindset](http://www.poppendieck.com/) - Powerful principles on how to design customer value creation systems.
+* [Mary Popendick Keynote](https://www.youtube.com/watch?v=TwasxNk1824&t=2287s) - Keynote presentation on the Lean Mindset.
 
 ## Engineering and Science
 
