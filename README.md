@@ -2,7 +2,7 @@
 
 
 
-# Create value for customers
+## Create value for customers
 
 * [The Lean Mindset](http://www.poppendieck.com/) - Powerful principles on how to design customer value creation systems.
 * [Mary Popendick Keynote](https://www.youtube.com/watch?v=TwasxNk1824&t=2287s) - Keynote presentation on the Lean Mindset.
@@ -17,7 +17,7 @@
 * Understand group think
 * Understand how to challenge the status quo.
 
-### Comtenpory views of org resistance and necessary change.
+### Contemporary views of org resistance and necessary change.
 * Enterprise IT - Swartz.
 * AWS Enterprise IT Blog
 * Ahead in the cloud
