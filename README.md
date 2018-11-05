@@ -23,8 +23,8 @@
 * Ahead in the cloud
 
 ### Design Empathy
-[High Resolution Design](https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw) Interviews with leading design thinkers.
-[The Design of Everyday Things](http://a.co/d/jdt1QCD) by Donald A. Norman et al. 
+* [High Resolution Design](https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw) Interviews with leading design thinkers.
+* [The Design of Everyday Things](http://a.co/d/jdt1QCD) by Donald A. Norman et al. 
 
 ### Spirit. Leadership
 *  Become tougher - Stoicism
