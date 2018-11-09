@@ -9,9 +9,9 @@
 
 ## Engineering and Science
 
-*  [https://curriculum.vexrobotics.com/curriculum/intro-to-engineering/what-is-the-engineering-design-process.html] What is the Engineering Design Process
-*  [https://sciencecouncil.org/about-science/our-definition-of-science/] What is Science
-* [https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/the-scientific-method] The Scientific Method
+*  [What is the Engineering Design Process](https://curriculum.vexrobotics.com/curriculum/intro-to-engineering/what-is-the-engineering-design-process.html)
+*  [What is Science](https://sciencecouncil.org/about-science/our-definition-of-science/)
+* [The Scientific Method] (https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/the-scientific-method)
 
 ### Understand human tendencies and Generate innovation
 * [Cognitive biases that are messing up your decison making](https://www.inc.com/jessica-stillman/6-cognitive-biases-that-are-messing-up-your-decision-making.html) Be aware of cognitive biases and how they affect thinking.
@@ -29,7 +29,7 @@
 * [The Design of Everyday Things](http://a.co/d/jdt1QCD) by Donald A. Norman et al.
 
 ### Spirit. Leadership
-*  Become tougher - Stoicism
+* [Stoicism](https://www.youtube.com/watch?v=R9OCA6UFE-0) A viewpoint is what is needed to overcome.
 * Leadership. Lead yourself and others. Help the team win. -Jocko Willink.
 
 ### Communication
