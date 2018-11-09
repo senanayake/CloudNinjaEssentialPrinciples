@@ -9,13 +9,15 @@
 
 ## Engineering and Science
 
-*  What is Engineering
-*  What is Science
+*  [https://curriculum.vexrobotics.com/curriculum/intro-to-engineering/what-is-the-engineering-design-process.html] What is the Engineering Design Process
+*  [https://sciencecouncil.org/about-science/our-definition-of-science/] What is Science
+* [https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/the-scientific-method] The Scientific Method
 
 ### Understand human tendencies and Generate innovation
-* Understand cognitive bias
-* Understand group think
-* Understand how to challenge the status quo.
+* [https://www.inc.com/jessica-stillman/6-cognitive-biases-that-are-messing-up-your-decision-making.html] Be aware of cognitive biases and how they affect thinking.
+* [https://oregonstate.edu/instruct/theory/grpthink.html] Groupthink
+* [https://www.youtube.com/watch?v=e20lpMyXFj4] De Bono on creativity [Youtube]
+* [http://www.debonogroup.com/interviews_and_audio.php] Interviews with De Bono
 
 ### Contemporary views of org resistance and necessary change.
 * Enterprise IT - Swartz.
@@ -24,7 +26,7 @@
 
 ### Design Empathy
 * [High Resolution Design](https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw) Interviews with leading design thinkers.
-* [The Design of Everyday Things](http://a.co/d/jdt1QCD) by Donald A. Norman et al. 
+* [The Design of Everyday Things](http://a.co/d/jdt1QCD) by Donald A. Norman et al.
 
 ### Spirit. Leadership
 *  Become tougher - Stoicism
