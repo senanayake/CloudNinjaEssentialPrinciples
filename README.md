@@ -1,11 +1,11 @@
-# Essential principles for the Cloud Engineering Ninja
+# Essential knowledge for the Cloud Engineering Ninja
 
 
 
 ## Create value for customers
 
 * [The Lean Mindset](http://www.poppendieck.com/) - Powerful principles on how to design customer value creation systems.
-* [Mary Popendick Keynote](https://www.youtube.com/watch?v=TwasxNk1824&t=2287s) - Keynote presentation on the Lean Mindset.
+* [Mary Poppendieck Keynote](https://www.youtube.com/watch?v=TwasxNk1824&t=2287s) - Keynote presentation on the Lean Mindset.
 
 ## Engineering and Science
 
@@ -14,15 +14,15 @@
 * [https://www.khanacademy.org/science/high-school-biology/hs-biology-foundations/hs-biology-and-the-scientific-method/v/the-scientific-method] The Scientific Method
 
 ### Understand human tendencies and Generate innovation
-* [https://www.inc.com/jessica-stillman/6-cognitive-biases-that-are-messing-up-your-decision-making.html] Be aware of cognitive biases and how they affect thinking.
-* [https://oregonstate.edu/instruct/theory/grpthink.html] Groupthink
-* [https://www.youtube.com/watch?v=e20lpMyXFj4] De Bono on creativity [Youtube]
-* [http://www.debonogroup.com/interviews_and_audio.php] Interviews with De Bono
+* [Cognitive biases that are messing up your decison making](https://www.inc.com/jessica-stillman/6-cognitive-biases-that-are-messing-up-your-decision-making.html) Be aware of cognitive biases and how they affect thinking.
+* [Groupthink](https://oregonstate.edu/instruct/theory/grpthink.html) None of us is as dumb as all of us
+* [De Bono on creativity](https://www.youtube.com/watch?v=e20lpMyXFj4) [Youtube]
+* [Interviews with De Bono](http://www.debonogroup.com/interviews_and_audio.php)
 
 ### Contemporary views of org resistance and necessary change.
-* Enterprise IT - Swartz.
-* AWS Enterprise IT Blog
-* Ahead in the cloud
+* [What does it mean to lead IT - Swartz](https://www.youtube.com/watch?v=JXtt7Oo8JRA)
+* [AWS Enterprise Strategy Blog](https://aws.amazon.com/blogs/enterprise-strategy/)
+* [Ahead in the cloud, Orban]( http://a.co/d/1bi4yuN)
 
 ### Design Empathy
 * [High Resolution Design](https://www.youtube.com/channel/UCzBkNPSxw15qrW_Y8p-oCUw) Interviews with leading design thinkers.
